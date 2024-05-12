@@ -1,9 +1,9 @@
 {
-  "main.css": "/protpolio/static/css/main.b6a85710.chunk.css",
-  "main.js": "/protpolio/static/js/main.763080f1.chunk.js",
-  "runtime~main.js": "/protpolio/static/js/runtime~main.b3c62e6a.js",
-  "static/js/2.eff29690.chunk.js": "/protpolio/static/js/2.eff29690.chunk.js",
-  "index.html": "/protpolio/index.html",
-  "precache-manifest.569aecfdc2badde02b22c647353a3a6d.js": "/protpolio/precache-manifest.569aecfdc2badde02b22c647353a3a6d.js",
-  "service-worker.js": "/protpolio/service-worker.js"
+  "main.css": "/portpolie/static/css/main.b6a85710.chunk.css",
+  "main.js": "/portpolie/static/js/main.55913d51.chunk.js",
+  "runtime~main.js": "/portpolie/static/js/runtime~main.4db26cbe.js",
+  "static/js/2.eff29690.chunk.js": "/portpolie/static/js/2.eff29690.chunk.js",
+  "index.html": "/portpolie/index.html",
+  "precache-manifest.f2fea972eac35a6a046a1ad35fa62060.js": "/portpolie/precache-manifest.f2fea972eac35a6a046a1ad35fa62060.js",
+  "service-worker.js": "/portpolie/service-worker.js"
 }
